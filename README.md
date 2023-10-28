@@ -26,6 +26,7 @@ our virtual try-on system.
 using the data, especially if we are using third-party images or data.
 
 References:
+
 https://www.catalyzex.com/paper/arxiv:2310.04558
 
 https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13643
