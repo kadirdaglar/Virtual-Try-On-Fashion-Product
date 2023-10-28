@@ -30,12 +30,10 @@ https://www.catalyzex.com/paper/arxiv:2310.04558
 
 https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13643
 
-https://ipython.readthedocs.io/en/stable/api/generated/IPytho
-n.display.html
+https://ipython.readthedocs.io/en/stable/api/generated/IPython.display.html
 
 https://www.catalyzex.com/paper/arxiv:2308.13798
 
-https://www.sciencedirect.com/science/article/pii/S095070511
-7303234
+https://www.sciencedirect.com/science/article/pii/S0950705117303234
 
 https://marketsplash.com/tutorials/ipython/ipython-display/
